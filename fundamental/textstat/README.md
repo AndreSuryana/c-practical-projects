@@ -53,7 +53,7 @@ Characters: 521
 With `-a` (all features):
 
 ```sh
-$ ./textstat -(TODO: Specify flag) filename.txt
+$ ./textstat -a filename.txt
 Lines:        17
 Words:        85
 Characters:   821
